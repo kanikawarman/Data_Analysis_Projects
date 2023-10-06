@@ -18,3 +18,8 @@ Focus on Children’s Picture Books from the weekly list of best-selling books f
 and analyze the gender distribution of authors to see if there have been changes over time from 2008 to 2017. (reference to Datacamp project)
 This basic project uses the concept of Fuzzy and uses fuzzy.nysiis package to get similar name sounds and extracts the gender of a person using that. 
 Modules used: Pandas, Numpy, Fuzzy, Matplotlib
+
+Project 3: Predicting Sleep Disorder
+This project focuses on generating a prediction model that could detect if a person has or could have sleep disorder in near future based on parameters like age, Gender, BMI< Physical Activity, Occupation and more. This could be helpful to see if based on their habits, a person has a potential future risk of sleep disorder. It involves data preparing, data visualization, model training, feature engineering, model evaluation and model validation.
+Dataset used in this: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+Used Libraries: Python - Numpy, Pandas, Seaborn, Matplotlib.plotly ML - Logistic Regression, Descison Tree, SVC, KNN, Random Forest. 
