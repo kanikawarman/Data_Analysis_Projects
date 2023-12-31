@@ -26,3 +26,10 @@ This project focuses on generating a prediction model that could detect if a per
 
   Project 5: Cleaning Bank Marketing Campaign Data
   Cleaning datasets and splitting dataset to divide the data and create .csv files with the appropriate data. Dealt with datetime, pandas, numpy libraries to accomplish the task.
+
+  Project 6: Exploring London Transport using Snowflake SQL
+  Explored the dataset related to london travel network present in the Snowflake and used SnowflakeSQL to understand the data and answer key questions.
+  Related Files -> tfl_journeys (CSV file containing the london transport details) and notebook featuring the tasks performed.
+  Dataset --> https://data.london.gov.uk/dataset
+  Database: Snowflake, SQL
+  
