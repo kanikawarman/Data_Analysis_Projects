@@ -36,3 +36,7 @@ This project focuses on generating a prediction model that could detect if a per
 Project 7: Netflix Data Analysis - Exploring insights in data
 This project focuses on the EDA of the Netflix Data released in the year 2020-21. Few questions that are answered in the analysis are:
 (1) Which country produces most content? (2) Why the netflix video count soared? (3) Top movies as per country (4) Top Series as per country (5) Show rating effected by month of release (6) Movie/Show rating affected by genre/rating
+
+Project 8:  Data Science Project on Birth Rate Analysis
+Analysing the birth trends over the years by exploring the data on births in the United States, provided by the Centers for Disease Control (CDC). This data can be found at births.csv
+
