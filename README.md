@@ -41,3 +41,7 @@ Project 8:  Data Science Project on Birth Rate Analysis
 
   Analysing the birth trends over the years by exploring the data on births in the United States, provided by the Centers for Disease Control (CDC). This data can   be found at births.csv
 
+Project 9:  Screen Time Analysis using Python
+
+  Screen Time Analysis is the task of analyzing and creating a report on which applications and websites are used by the user for how much time. This project delves into the dataset and understand the relation between the amount of time, clock time, the apps used in a smartphone.
+
