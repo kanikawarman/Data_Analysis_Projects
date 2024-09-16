@@ -45,3 +45,9 @@ Project 9:  Screen Time Analysis using Python
 
   Screen Time Analysis is the task of analyzing and creating a report on which applications and websites are used by the user for how much time. This project delves into the dataset and understand the relation between the amount of time, clock time, the apps used in a smartphone.
 
+**Project 10:**
+**The Power of Handwashing: Analyzing Historical Data on Maternal Mortality Using Pandas and Bootstrap Methods**
+**Objective:**  This project reanalyzes historical data to evaluate the impact of handwashing on maternal mortality rates at the Vienna General Hospital in the 1800s. Using **pandas** for data manipulation, we calculated the proportion of deaths in two clinics, revealing significantly higher mortality rates in Clinic 1, where medical students worked. **Matplotlib** was used to visualize trends, showing a sharp decrease in deaths after the introduction of mandatory handwashing in 1847. A **bootstrap analysis** was performed to estimate the impact, demonstrating a 6.7 to 10 percentage point reduction in deaths with 95% confidence. This showcases the effectiveness of handwashing in reducing maternal deaths.
+
+**Referenced Notebook:-** 
+
