@@ -148,3 +148,11 @@ This framework helps creators and brands:
 - Identify repeatable success patterns.
 - Detect whether controversy fuels engagement or harms growth.
 - Optimize content strategy by cohort and keyword trends.
+
+This helps to answer the following questions:
+
+- Percentiles (7d/30d): For each video, we benchmark its current views against videos published in the prior 7 or 30 calendar days up to its publish date. All-time is across the entire dataset. This answers, “How did it stack up versus its time-peer set?”
+
+- Cohorts: We approximate average cumulative growth by computing views/day within each publish-month cohort, then projecting cumulative curves. It’s a pragmatic approach given we have snapshot totals (not day-by-day histories).
+
+- Controversy score: Mix of (a) variance and (b) entropy in sentiment (0=neg,1=neu,2=pos) and (c) variance in comment likes—each min-max normalized and averaged. Entropy captures how “split” the audience is; likes variance captures uneven attention across comments.
