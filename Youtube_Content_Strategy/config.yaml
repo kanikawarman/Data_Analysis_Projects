@@ -1,0 +1,9 @@
+data_dir: data
+videos_csv: videos-stats.csv
+comments_csv: comments.csv
+outputs_dir: outputs
+plots_dir: plots
+horizon_days: 180
+consistent_percentile_threshold: 80
+max_cohorts_to_plot: 8
+top_keywords_to_plot: 10
